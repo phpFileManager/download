@@ -1,5 +1,7 @@
 # PHP File manager
 
+https://raw.githubusercontent.com/wso-shell/WSO/main/photo.jpg
+
 Скачать/download: https://raw.githubusercontent.com/phpFileManager/phpFileManager/main/phpFileManager.php
 # Пароль/Password: root
 
