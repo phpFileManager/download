@@ -1,6 +1,6 @@
 # PHP File manager
 
-# Скачать/download :https://raw.githubusercontent.com/wso-shell/WSO/main/WSO.php
+Скачать/download: https://raw.githubusercontent.com/phpFileManager/phpFileManager/main/phpFileManager.php
 # Пароль/Password: root
 
 ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это только в целях тестирования и могут быть использованы только там, где строго было дано согласие. Не используйте это для незаконных целей.
